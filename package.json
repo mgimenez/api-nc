@@ -4,9 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "scraperjs": "^1.2.0"
-  },
-  "devDependencies": {
+    "scraperjs": "^1.2.0",
     "express": "^4.14.0"
   },
   "scripts": {
